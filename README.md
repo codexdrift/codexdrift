@@ -26,6 +26,8 @@
           <li>⚡ Turning ideas into <strong>modern, functional products</strong></li>
           <li>📫 Reach me at: <a href="mailto:adarsh@example.com"><strong>adarsh@example.com</strong></a></li>
       </ul>
+        <br>
+      <img src="https://komarev.com/ghpvc/?username=codexdrift&label=👀+Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
     </td>
     <td width="100%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
@@ -38,6 +40,10 @@
 
 
 ## 🚀 What I Build
+<!-- CUSTOM GIF -->
+<div align="center">
+  <img src="./coding.gif" width="480" alt="Coding Animation" />
+</div>
 
 <div align="center">
 
@@ -192,9 +198,7 @@
 ---
 
 <!-- FOOTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codexdrift&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
