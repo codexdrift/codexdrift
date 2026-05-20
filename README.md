@@ -12,31 +12,30 @@
 
 
 
-
----
-
 ## 👨‍💻 About Me
 
 <table width="100%" align="center">
   <tr>
-    <td width="65%">
+    <td width="100%">
       <ul>
-        <li>💻 <strong>Full-Stack Developer</strong> based in <strong>Chandigarh, India</strong></li>
-        <li>⚙️ Skilled in building <strong>custom web applications</strong> using <strong>React.js, Node.js, Express.js, MongoDB</strong> & modern web technologies</li>
-        <li>🖥️ Capable of handling <strong>end-to-end WordPress websites</strong>, from development to deployment</li>
-        <li>🚀 Passionate about creating <strong>scalable, high-performance digital experiences</strong></li>
-        <li>💡 Problem solver with a <strong>creative and user-focused approach</strong></li>
-        <li>⚡ Turning ideas into <strong>modern, functional products</strong></li>
-        <li>📫 Reach me at: <a href="mailto:adarsh@example.com"><strong>adarsh@example.com</strong></a></li>
+          <li>💻 <strong>Full-Stack Developer</strong> based in <strong>Chandigarh, India</strong></li>
+          <li>⚙️ Skilled in building <strong>custom web applications</strong> using <strong>React.js, Node.js, Express.js, MongoDB</strong> &                 modern web technologies</li>
+          <li>🖥️ Capable of handling <strong>end-to-end WordPress websites</strong>, from development to deployment</li>
+          <li>🚀 Passionate about creating <strong>scalable, high-performance digital experiences</strong></li>
+          <li>💡 Problem solver with a <strong>creative and user-focused approach</strong></li>
+          <li>⚡ Turning ideas into <strong>modern, functional products</strong></li>
+          <li>📫 Reach me at: <a href="mailto:adarsh@example.com"><strong>adarsh@example.com</strong></a></li>
       </ul>
     </td>
-    <td width="35%" align="center">
+    <td width="100%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
     </td>
   </tr>
 </table>
 
 ---
+
+
 
 ## 🚀 What I Build
 
@@ -52,6 +51,7 @@
 | 🛠️ Backend Systems | REST APIs, authentication systems & database architecture |
 
 </div>
+
 
 ---
 
@@ -108,9 +108,18 @@
 
 ---
 
-## 📊 GitHub Stats & Rating
 
-<div align="center">
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexdrift&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+
+<!--  GitHub Stats & Rating---->
+
+<!-- <div align="center">
   <a href="https://github.com/codexdrift">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codexdrift&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="195" alt="GitHub Stats" />
   </a>
@@ -127,7 +136,7 @@
   </a>
 </div>
 
-<br>
+<br> -->
 
 
 <!-- THOUGHT-OF-THE-DAY:START -->
@@ -155,23 +164,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexdrift&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 😂 Fun Fact
-
-<div align="center">
-
-💻 "It works on my machine" — every developer ever
-
-</div>
-
----
 
 ## 📲 Connect With Me
 
