@@ -1,26 +1,17 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Adarsh&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" 
+       onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adarsh&fontSize=60&animation=fadeIn'; this.onerror=null;" />
 </p>
 
 <!-- MAIN TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi,+I'm+Adarsh;+Full-Stack+Developer;+MERN+Stack+Expert;+WordPress+Pro;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi,+I'm+Adarsh;+Full-Stack+Developer;" />
 </h1>
 
-<!-- PROFILE INTRO WITH GIF PLACEHOLDER -->
-<div align="center">
-  <img src="https://github.com/codexdrift.png" width="150" style="border-radius: 50%;" alt="Adarsh" />
-</div>
 
-<br>
 
-<!-- VIDEO/GIF PLACEHOLDER — Replace the src below with your own GIF -->
-<div align="center">
-  <img src="./my-intro.gif" width="480" alt="Intro Animation" />
-  <br>
-  <sub>👆 <i>Replace <code>my-intro.gif</code> with your custom video/GIF</i></sub>
-</div>
+
 
 ---
 
@@ -138,14 +129,6 @@
 
 <br>
 
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codexdrift&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-  </a>
-</div>
-
----
 
 <!-- THOUGHT-OF-THE-DAY:START -->
 <div align="center">
@@ -163,9 +146,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=18&duration=6000&pause=2000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;—+John+Johnson" alt="Quote" />
 </div>
 
-<div align="center">
-<sub>🔄 This quote refreshes daily via GitHub Actions</sub>
-</div>
 
 </td>
 </tr>
