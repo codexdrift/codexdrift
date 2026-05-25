@@ -29,7 +29,7 @@
           <li>🚀 Passionate about creating <strong>scalable, high-performance digital experiences</strong></li>
           <li>💡 Problem solver with a <strong>creative and user-focused approach</strong></li>
           <li>⚡ Turning ideas into <strong>modern, functional products</strong></li>
-          <li>📫 Reach me at: <a href="mailto:adarsh21@gmail.com."><strong>mailto:adarsh21@gmail</strong></a></li>
+          <li>📫 Reach me at: <a href="mailto:adarsh21@gmail.com"><strong>mailto:adarsh21@gmail.com</strong></a></li>
       </ul>
         <br>
       <img src="https://komarev.com/ghpvc/?username=codexdrift&label=👀+Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
